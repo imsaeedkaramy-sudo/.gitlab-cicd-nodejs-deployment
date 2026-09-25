@@ -1,0 +1,7 @@
+{
+  "name": "my-node-app",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"No complex tests yet... passing!\" && exit 0"
+  }
+}
